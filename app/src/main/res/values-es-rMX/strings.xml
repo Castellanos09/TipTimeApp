@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="welcome_to_tip_time">Bienvenido(a) a Tip Time!</string>
+    <string name="this_app_helps_us_to_know_the_quality_of_the_service_we_offer_please_leave_your_tipe_according_to_your_criteria">Esta App nos ayuda a conocer la calidad del servicio que ofrecemos. Por favor deja una propina acorde a tus criterios</string>
+    <string name="cost_of_service">Costo del servicio</string>
+    <string name="how_was_the_service">Cómo fue el servicio?</string>
+    <string name="amazing_20">Estupendo (20%)</string>
+    <string name="good_18">Bueno (18%)</string>
+    <string name="okay_15">Regular (15%)</string>
+    <string name="round_up">¿Redondear?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Monto de la propina</string>
+</resources>

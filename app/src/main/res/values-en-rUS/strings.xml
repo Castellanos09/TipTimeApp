@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TipTime</string>
-    <string name="Text_View">Cocst of service</string>
+    <string name="welcome_to_tip_time">Welcome to Tip Time!</string>
+    <string name="this_app_helps_us_to_know_the_quality_of_the_service_we_offer_please_leave_your_tipe_according_to_your_criteria">This app helps us to know the quality of the service we offer. Please, leave your tip according to your criteria</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="okay_15">Okay (15%)</string>
+    <string name="round_up">Round up?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount</string>
 </resources>
